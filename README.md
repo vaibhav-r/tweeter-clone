@@ -45,21 +45,14 @@ $ cd client
 $ npm install
 ```
 
-### Start the server in development mode
+### Start the server and client
 
 ```bash
-$ cd server
-$ npm run dev
-```
-
-If everything was successful, you should see the messages being displayed in the terminal, telling that the server has successfully connected to a MongoDB and runs on a given port.
-
-### Start the client
-
-```bash
-$ cd client
 $ npm start
 ```
+
+
+If everything was successful, you should see the messages being displayed in the terminal, telling that the server has successfully connected to a MongoDB and runs on a given port.
 
 Now, the app should be running on `http://localhost:3000`.
 
