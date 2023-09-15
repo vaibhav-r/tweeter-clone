@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node ./serversrc/index.js"
+  }
   "dependencies": {
     "mongodb": "^6.0.0"
   }
