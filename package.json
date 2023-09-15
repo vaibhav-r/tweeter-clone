@@ -1,4 +1,18 @@
 {
+  "name": "twitter-clone",
+  "version": "2.0.0",
+  "description": "A full-stack Twitter clone built using Node, Express, React and MongoDB",
+  "main": "server/src/index.js",
+  "private": true,
+  "scripts": {
+    "start": "node server/src/index.js",
+    "dev": "cross-env NODE_ENV=development nodemon src/index.js",
+    "test": "jest -i --colors --verbose --detectOpenHandles --runInBand",
+    "test:watch": "jest -i --watchAll --runInBand",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write **/*.js"
+  }
   "dependencies": {
     "mongodb": "^6.0.0"
   }
