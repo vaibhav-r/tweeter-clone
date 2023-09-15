@@ -1,5 +1,9 @@
 # twitter-clone
 ![tweet](https://github.com/vaibhav-r/tweeter-clone/assets/77624981/315d2218-08e5-461e-8a74-87d329a501e3)
+
+## Description
+
+A full-stack Twitter clone app built using Node.js, Express.js, React.js, and MongoDB.
 Main Page:
 ![main](https://github.com/vaibhav-r/tweeter-clone/assets/77624981/98ef88f9-ad55-43f1-b3ec-66522f5e8c05)
 
@@ -15,10 +19,6 @@ Sign up:
 Tweets:
 ![tweet](https://github.com/vaibhav-r/tweeter-clone/assets/77624981/a50c6fe9-7db2-4682-89c9-998b4410bdaa)
 ![tweet-pr](https://github.com/vaibhav-r/tweeter-clone/assets/77624981/bf2df5b2-ddb3-4698-93f4-9707d2ad8976)
-
-## Description
-
-A full-stack Twitter clone app built using Node.js, Express.js, React.js, and MongoDB.
 
 ### Background
 
