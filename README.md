@@ -72,13 +72,8 @@ $ npm test
 $ npm run test:watch
 ```
 
-### Client
 
-To run tests with Cypress first, copy the `client/.env` file to a `client/.env.local`. There is a default password for test users. You do not need to change that. Then simply run:
 
-```bash
-$ npm run cypress:open
-```
 
 ## Inspirations
 
