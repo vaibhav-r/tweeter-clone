@@ -1,5 +1,5 @@
 {
-  "name": "twitter-clone",
+  "name": "server",
   "version": "2.0.0",
   "description": "A full-stack Twitter clone built using Node, Express, React and MongoDB",
   "main": "src/index.js",
