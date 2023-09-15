@@ -1,6 +1,7 @@
 # twitter-clone
 
-https://drive.google.com/file/d/17pZuwm5PgRvGlZEg3zehtWsxkqHNsbou/view?usp=sharing
+![main](https://github.com/vaibhav-r/tweeter-clone/assets/77624981/98ef88f9-ad55-43f1-b3ec-66522f5e8c05)
+
 
 ## Description
 
