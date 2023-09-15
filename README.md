@@ -1,6 +1,6 @@
 # twitter-clone
 
-![project-preview]([https://res.cloudinary.com/dtti654qn/image/upload/c_scale,w_1280/v1626618841/github-projects/twitter-clone_w4gwyy.png](https://drive.google.com/file/d/17pZuwm5PgRvGlZEg3zehtWsxkqHNsbou/view?usp=sharing))
+![project-preview]((https://drive.google.com/file/d/17pZuwm5PgRvGlZEg3zehtWsxkqHNsbou/view?usp=sharing))
 
 ## Description
 
